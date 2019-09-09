@@ -1,0 +1,6 @@
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\Client\bin\Debug\Client.exe.config
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\Client\bin\Debug\Client.exe
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\Client\bin\Debug\Client.pdb
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\Client\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\Client\obj\Debug\Client.exe
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\Client\obj\Debug\Client.pdb

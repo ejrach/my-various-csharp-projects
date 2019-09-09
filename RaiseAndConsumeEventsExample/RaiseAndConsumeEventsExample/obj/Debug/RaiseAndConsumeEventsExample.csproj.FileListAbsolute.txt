@@ -1,0 +1,13 @@
+C:\Users\Eric\source\repos\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\bin\Debug\RaiseAndConsumeEventsExample.exe.config
+C:\Users\Eric\source\repos\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\bin\Debug\RaiseAndConsumeEventsExample.exe
+C:\Users\Eric\source\repos\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\bin\Debug\RaiseAndConsumeEventsExample.pdb
+C:\Users\Eric\source\repos\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\obj\Debug\RaiseAndConsumeEventsExample.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\obj\Debug\RaiseAndConsumeEventsExample.exe
+C:\Users\Eric\source\repos\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\obj\Debug\RaiseAndConsumeEventsExample.pdb
+C:\Users\Eric\source\repos\CSharp\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\bin\Debug\RaiseAndConsumeEventsExample.exe.config
+C:\Users\Eric\source\repos\CSharp\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\bin\Debug\RaiseAndConsumeEventsExample.exe
+C:\Users\Eric\source\repos\CSharp\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\bin\Debug\RaiseAndConsumeEventsExample.pdb
+C:\Users\Eric\source\repos\CSharp\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\obj\Debug\RaiseAndConsumeEventsExample.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\CSharp\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\obj\Debug\RaiseAndConsumeEventsExample.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\CSharp\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\obj\Debug\RaiseAndConsumeEventsExample.exe
+C:\Users\Eric\source\repos\CSharp\RaiseAndConsumeEventsExample\RaiseAndConsumeEventsExample\obj\Debug\RaiseAndConsumeEventsExample.pdb

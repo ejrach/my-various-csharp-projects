@@ -1,0 +1,7 @@
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\UDP\bin\Debug\UDP.exe.config
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\UDP\bin\Debug\UDP.exe
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\UDP\bin\Debug\UDP.pdb
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\UDP\obj\Debug\UDP.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\UDP\obj\Debug\UDP.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\UDP\obj\Debug\UDP.exe
+C:\Users\Eric\Documents\GitHub\my-csharp-projects\UDP\UDP\obj\Debug\UDP.pdb
